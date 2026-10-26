@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-decorative {
+    font-family: 'Aref Ruqaa', 'Amiri', serif;
+  }
+  .font-kufi {
+    font-family: 'Reem Kufi', sans-serif;
+  }
+}

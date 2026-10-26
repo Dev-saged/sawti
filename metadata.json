@@ -1,0 +1,10 @@
+{
+  "name": "Remix صوتي | تحويل الصوت والفيديو واليوتيوب إلى نص",
+  "description": "تطبيق لتحويل الصوت المباشر والملفات الصوتية والفيديو ومقاطع اليوتيوب إلى نصوص بدقة فائقة مع دعم متعدد اللغات وتحديد المتحدثين والتصدير إلى Word و PDF",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
